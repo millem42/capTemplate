@@ -15,3 +15,5 @@ test - Test cases
 etc.
 
 This is a new new line
+
+:frog:
