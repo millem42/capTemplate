@@ -14,7 +14,7 @@ src - Source code
 test - Test cases
 etc.
 
-This is a new edited line
+This is a new edited conflicting line
 
 :frog:
 
